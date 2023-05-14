@@ -71,6 +71,7 @@ body {
     border-bottom-left-radius: 20px;
     text-decoration: none;
     display: flex;
+    float: left;
     justify-content: space-between;
     flex-direction: column;
     padding-bottom: 10px;
